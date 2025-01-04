@@ -1,5 +1,5 @@
 ## Hi there 👋
-I solve CTF's in my free time if you are benefitted by it leave a star..
+I solve CTF's in my free time, if you are benefitted by it leave a star..
 
 
 
